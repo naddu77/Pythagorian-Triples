@@ -1,7 +1,8 @@
 # Pythagorian-Triples
 
 아래 포스트의 Pythagorian-Triples 코드가 드디어 MSVC에서 동작하기 시작했습니다.
-https://ericniebler.com/2018/12/05/standard-ranges/
+
+Link: [https://ericniebler.com/2018/12/05/standard-ranges/]
 
 Visual Studio 2019 Preview
 
