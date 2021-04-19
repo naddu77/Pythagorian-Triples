@@ -61,7 +61,7 @@ int main() {
             });
 
     // Display the first 10 triples
-    for (auto triple : triples | views::take(1000))
+    for (auto triple : triples | views::take(10))
         cout << '('
         << get<0>(triple) << ','
         << get<1>(triple) << ','
